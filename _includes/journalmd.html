@@ -12,8 +12,10 @@
             </div>
         </div>
     {% if page.discuss != nil %}        
-    <button class="socialbtn"><i class='bx mdicon bxs-conversation'></i><a class="btnlnk" href="giscus-cmt">Discuss</a></button>  
-    {% endif %}  
+    <button class="socialbtn" id="scrollToGiscus">
+        <i class='bx mdicon bxs-conversation'></i>
+        <a class="btnlnk" href="#">Discuss</a>
+      </button>    {% endif %}  
     <button class="rssbtn"><a class="btnlnk" href="{{ site.baseurl }}/rss.xml" target="_blank"><i class='bx bx-rss' style="color: #ffffff;" ></i>RSS</a></button>           
 </div>
 
@@ -63,6 +65,19 @@
         }
     });
 </script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const scrollToGiscusButton = document.getElementById("scrollToGiscus");
+      const giscusDiv = document.getElementById("giscus-cmt");
+  
+      scrollToGiscusButton.addEventListener("click", function (e) {
+        e.preventDefault(); // Prevent the default behavior of the anchor link
+        giscusDiv.scrollIntoView({ behavior: "smooth" });
+      });
+    });
+  </script>
+  
 
 
 
