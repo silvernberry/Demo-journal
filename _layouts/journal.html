@@ -8,24 +8,7 @@
     <div id="journal" class="wrapper">
         {% include journalmd.html %}
         {{content}}
-        <div class="giscus">
-            <script src="https://giscus.app/client.js"
-            data-repo="silvernberry/Demo-journal"
-            data-repo-id="R_kgDOKlWT-g"
-            data-category="General"
-            data-category-id="DIC_kwDOKlWT-s4Cado9"
-            data-mapping="pathname"
-            data-strict="0"
-            data-reactions-enabled="1"
-            data-emit-metadata="1"
-            data-input-position="top"
-            data-theme="dark_dimmed"
-            data-lang="en"
-            data-loading="lazy"
-            crossorigin="anonymous"
-            async>
-            </script>
-        </div>
+        {% include giscus.html %}
     </div>
     <div class="totop">
         <a href="#">
