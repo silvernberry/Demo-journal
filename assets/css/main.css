@@ -65,7 +65,7 @@ li{
   --body-text-primary: #252525;
   --link-primary: #8805EE;
   --code-primary: #242424;
-  --comments-primary: #4e3b5e;
+  --comments-primary: #5f86e8;
 }
 
 body{
@@ -325,7 +325,7 @@ pre,
   text-align: left;
   color: var(--body-text-primary);
   border-collapse: collapse;
-  border: 1px solid #983838;
+  border: 1px solid #e8e8e8;
 }
 
 table th, table td {
@@ -346,10 +346,10 @@ table td {
 
 /* giscus */
 
-/* .giscus{
+.giscus{
 background-color: var(--comments-primary);
 padding: 25px;
-} */
+}
 
 
 /* breakpoints */
