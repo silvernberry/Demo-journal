@@ -346,7 +346,9 @@ table td {
 
 .giscuss{
 background-color: var(--code-primary);
+padding: 25px;
 }
+
 
 /* breakpoints */
 
