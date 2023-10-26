@@ -342,9 +342,11 @@ table td {
   width: 100%;
 }
 
-/* others */
+/* giscus */
 
-
+.giscuss{
+background-color: var(--code-primary);
+}
 
 /* breakpoints */
 
