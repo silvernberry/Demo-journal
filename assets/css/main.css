@@ -55,6 +55,7 @@ li{
   --body-text-primary: #E6EDF3;
   --link-primary: #8805EE;
   --code-primary: #1d1d1d;
+  --comments-primary: #0d1017;
 }
 .light-theme{
   --header-primary: #a771d2;
@@ -63,7 +64,8 @@ li{
   --header-text: #FFF;
   --body-text-primary: #252525;
   --link-primary: #8805EE;
-  --code-primary: #8a8191;
+  --code-primary: #242424;
+  --comments-primary: #c99fec;
 }
 
 body{
@@ -344,8 +346,8 @@ table td {
 
 /* giscus */
 
-.giscuss{
-background-color: var(--code-primary);
+.giscus{
+background-color: var(--comments-primary);
 padding: 25px;
 }
 
