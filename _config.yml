@@ -37,6 +37,7 @@ plugins:
   - "jekyll-feed"
   - "jekyll-github-metadata"
   - "jekyll-sitemap"
+  - "jemoji"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -63,6 +64,8 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: mathjax
+  hard_wrap: true 
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 # rss feed info's
 

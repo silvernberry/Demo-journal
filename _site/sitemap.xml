@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/Demo-journal/JOURNALS/blockchain-hindi.html</loc>
+<lastmod>2023-10-12T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Demo-journal/JOURNALS/blockchain-spanish.html</loc>
+<lastmod>2023-10-12T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Demo-journal/JOURNALS/blockchain.html</loc>
+<lastmod>2023-10-12T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Demo-journal/JOURNALS/example%201.html</loc>
+<lastmod>2023-10-12T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Demo-journal/JOURNALS/example%202.html</loc>
+<lastmod>2023-10-12T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Demo-journal/JOURNALS/example%203.html</loc>
+<lastmod>2023-10-12T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/Demo-journal/README.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Demo-journal/pages/allposts.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/Demo-journal/</loc>
+</url>
+</urlset>

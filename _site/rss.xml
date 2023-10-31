@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Your Journal Title</title>
+  <description>Your site&apos;s description</description>
+  <link>/Demo-journalYour url</link>
+  <atom:link href="/Demo-journal/feed.xml" rel="self" type="application/rss+xml" />
+  <pubDate>Tue, 31 Oct 2023 11:37:21 +0530</pubDate>
+  <lastBuildDate>Tue, 31 Oct 2023 11:37:21 +0530</lastBuildDate>
+  <generator>Jekyll</generator>
+  
+    <item>
+      <title>blockchain-hindi</title>
+      <description>
+</description>
+      <pubDate>Thu, 12 Oct 2023 </pubDate>
+      <link>/Demo-journal/JOURNALS/blockchain-hindi.html</link>
+      <guid isPermaLink="true">/Demo-journal/JOURNALS/blockchain-hindi.html</guid>
+    </item>
+  
+    <item>
+      <title>blockchain-spanish</title>
+      <description>
+</description>
+      <pubDate>Thu, 12 Oct 2023 </pubDate>
+      <link>/Demo-journal/JOURNALS/blockchain-spanish.html</link>
+      <guid isPermaLink="true">/Demo-journal/JOURNALS/blockchain-spanish.html</guid>
+    </item>
+  
+    <item>
+      <title>blockchain</title>
+      <description>
+</description>
+      <pubDate>Thu, 12 Oct 2023 </pubDate>
+      <link>/Demo-journal/JOURNALS/blockchain.html</link>
+      <guid isPermaLink="true">/Demo-journal/JOURNALS/blockchain.html</guid>
+    </item>
+  
+    <item>
+      <title>Jekyll journal</title>
+      <description>&lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This is a blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;hello :blush:&lt;/p&gt;
+
+&lt;div class=&quot;ainfo&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-info-circle&quot;&gt;&lt;/i&gt; &lt;strong&gt;Info&lt;/strong&gt; &lt;/span&gt; This is how you can add your own tooltips or hover texts. You can create a tooltip by using two ## instead of an actual link. For some reason, Markdown links that come directly after a bracket are sometimes invisible within a table. You can avoid this by linking directly to your file (For example insted of ## use README.md##). The goal is to have no click effect on the tooltips. They should only look like a link so that you can more easily find the tooltip.
+&lt;/div&gt;
+
+&lt;div class=&quot;anote&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-edit-alt&quot;&gt;&lt;/i&gt;&lt;strong&gt;Note&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;acheck&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-check-circle&quot;&gt;&lt;/i&gt;&lt;strong&gt;Check&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;acomplete&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-check-circle&quot;&gt;&lt;/i&gt;&lt;strong&gt;Complete&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;adanger&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-error-alt&quot;&gt;&lt;/i&gt;&lt;strong&gt;Danger&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;aerror&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-error-circle&quot;&gt;&lt;/i&gt;&lt;strong&gt;Error&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;aexample&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-expand-horizontal&quot;&gt;&lt;/i&gt;&lt;strong&gt;Example&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;aissue&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-disc&quot;&gt;&lt;/i&gt;&lt;strong&gt;Issue&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;asolution&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-check-circle&quot;&gt;&lt;/i&gt;&lt;strong&gt;Solution&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;atip&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-bulb&quot;&gt;&lt;/i&gt;&lt;strong&gt;Tip&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;asuccess&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-check-circle&quot;&gt;&lt;/i&gt;&lt;strong&gt;Success&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;awarning&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-error&quot;&gt;&lt;/i&gt; &lt;strong&gt;Warning&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+&lt;div class=&quot;aimportant&quot;&gt;
+    &lt;span class=&quot;atitle&quot;&gt;&lt;i class=&quot;bx aimg bx-error&quot;&gt;&lt;/i&gt;&lt;strong&gt;Important&lt;/strong&gt; &lt;/span&gt; This is my sample note.
+&lt;/div&gt;
+
+</description>
+      <pubDate>Thu, 12 Oct 2023 </pubDate>
+      <link>/Demo-journal/JOURNALS/example%201.html</link>
+      <guid isPermaLink="true">/Demo-journal/JOURNALS/example%201.html</guid>
+    </item>
+  
+    <item>
+      <title>Jekyll journal</title>
+      <description>&lt;pre&gt;&lt;code class=&quot;language-mermaid&quot;&gt;graph TD;
+   A--&amp;gt;B;
+   A--&amp;gt;C;
+   B--&amp;gt;D;
+   C--&amp;gt;D;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;hello_world&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Hello, World!&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+      <pubDate>Thu, 12 Oct 2023 </pubDate>
+      <link>/Demo-journal/JOURNALS/example%202.html</link>
+      <guid isPermaLink="true">/Demo-journal/JOURNALS/example%202.html</guid>
+    </item>
+  
+    <item>
+      <title>Jekyll journal</title>
+      <description>
+</description>
+      <pubDate>Thu, 12 Oct 2023 </pubDate>
+      <link>/Demo-journal/JOURNALS/example%203.html</link>
+      <guid isPermaLink="true">/Demo-journal/JOURNALS/example%203.html</guid>
+    </item>
+  
+</channel>
+</rss>

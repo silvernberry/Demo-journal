@@ -5,4 +5,21 @@ date: 12.10.2023
 discuss: slughere
 youtube: slughere
 toc: true
+ccontributors: 
+reviewers:
 ---
+
+
+```mermaid
+graph TD;
+   A-->B;
+   A-->C;
+   B-->D;
+   C-->D;
+```
+
+
+```python
+def hello_world():
+    print("Hello, World!")
+```
