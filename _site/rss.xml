@@ -5,12 +5,12 @@
   <description>Your site&apos;s description</description>
   <link>/Demo-journalYour url</link>
   <atom:link href="/Demo-journal/feed.xml" rel="self" type="application/rss+xml" />
-  <pubDate>Tue, 31 Oct 2023 11:37:21 +0530</pubDate>
-  <lastBuildDate>Tue, 31 Oct 2023 11:37:21 +0530</lastBuildDate>
+  <pubDate>Tue, 31 Oct 2023 21:42:21 +0530</pubDate>
+  <lastBuildDate>Tue, 31 Oct 2023 21:42:21 +0530</lastBuildDate>
   <generator>Jekyll</generator>
   
     <item>
-      <title>blockchain-hindi</title>
+      <title>blockchain translated</title>
       <description>
 </description>
       <pubDate>Thu, 12 Oct 2023 </pubDate>
@@ -41,6 +41,9 @@
       <description>&lt;hr /&gt;
 &lt;blockquote&gt;
   &lt;p&gt;This is a blockquote.&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;hello&lt;/p&gt;
+  &lt;/blockquote&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;hello :blush:&lt;/p&gt;

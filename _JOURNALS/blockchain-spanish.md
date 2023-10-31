@@ -5,7 +5,7 @@ date: 12.10.2023
 discuss: slughere
 youtube: slughere
 toc: true
-lang: spanish
+lang: Spanish
 ontributors: silvernberry, jobyreuben
 reviewers:
 ---

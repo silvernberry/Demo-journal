@@ -1,5 +1,5 @@
 ---
-title: blockchain-hindi
+title: blockchain translated
 description: this is a sample description
 date: 12.10.2023
 discuss: slughere
